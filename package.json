@@ -1,0 +1,11 @@
+{
+  "name": "zhihudailyfeed",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "server.js"
+  },
+  "dependencies": {
+    "express": "2.5.1",
+    "request": ">=2.1.1"
+  }
+}
